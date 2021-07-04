@@ -39,9 +39,7 @@
 
 ### 📊 GitHub Analytics
 
-<a href="https://github.com/mh-saeed">
+<a style="margin: 0 auto; " href="https://github.com/mh-saeed">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
 </a>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
