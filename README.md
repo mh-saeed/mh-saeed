@@ -10,7 +10,7 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
@@ -19,7 +19,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -37,7 +37,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <a href="https://github.com/mh-saeed">
   <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
