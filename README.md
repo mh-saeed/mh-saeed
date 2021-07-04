@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Muhammad Saeed 👨‍💻 </h1>
+<h1 align="center"> <strong>Hello, I'm Muhammad Saeed 👨‍💻<strong/> </h1>
 
 <h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
@@ -40,6 +40,6 @@
 ### 📊 GitHub Analytics
 
 <a href="https://github.com/mh-saeed">
-  <img height="182em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
+  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
   <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
 </a>
