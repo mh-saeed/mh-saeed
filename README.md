@@ -36,7 +36,7 @@
 
 <a href="https://github.com/mh-saeed">
 <span>
-  <img height="180em" max-width="400px"  src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
-  <img height="180em" max-width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
+  <img height="180em" max-width="400 px"  src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
+  <img height="180em" max-width="400 px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
 </span>
 </a>
