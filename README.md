@@ -9,7 +9,6 @@
 <a href="mailto:mh.saeed.aq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mh.saeed.aq@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 -  **Working :** &nbsp; Web Development :computer: | Cloud :cloud: 
@@ -17,9 +16,6 @@
 -  **Hobbies :**&nbsp; Books :books: | Music :headphones:
 -  **Ask me about :**&nbsp; Anything!, I'm happy to help :v:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
- 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
