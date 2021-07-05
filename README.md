@@ -9,14 +9,16 @@
 <a href="mailto:mh.saeed.aq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mh.saeed.aq@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 -  **Working :** &nbsp; Web Development :computer: | Cloud :cloud: 
 -  **Learning :**&nbsp; Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :**&nbsp; Books :books: | Music :headphones:
 -  **Ask me about :**&nbsp; Anything!, I'm happy to help :v:
 
-## 🛠 &nbsp;Tech Stack
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  
+### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -32,11 +34,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-## 📊 GitHub Analytics
+<br/>
 
+### 📊 GitHub Analytics
+
+<p align="center">
 <a href="https://github.com/mh-saeed">
-<span>
-  <img height="180em" min-width="150px" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
-  <img height="180em" min-width="150px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
-</span>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mh-saeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-saeed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
