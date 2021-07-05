@@ -4,8 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=mh-saeed" alt="=mh-saeed"/> 
 <a href="https://linkedin.com/in/muhammad-saeed-31211b174"><img src="https://img.shields.io/badge/-Muhammad%20Saeed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mh.saeed.aq@gmail.com"><img src="https://img.shields.io/badge/-mh.saeed.aq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/mh_Saeed_"><img alt="Twitter" src="https://img.shields.io/badge/-Saeed_Khan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
-<a href="https://instagram.com/mh.saeed1"><img src="https://img.shields.io/badge/-mh.saeed1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/mh_Saeed_"><img alt="Twitter" src="https://img.shields.io/badge/-@mh_Saeed_-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
+<a href="https://instagram.com/mh.saeed1"><img src="https://img.shields.io/badge/-@mh.saeed1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/m.saeed007"><img src="https://img.shields.io/badge/-@m.saeed007-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
