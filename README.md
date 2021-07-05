@@ -36,11 +36,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<br/>
-
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/mh-saeed">
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
+  <img height="200em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mh-saeed&theme=buefy&show_icons=true" />
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-saeed&theme=buefy&layout=compact" />
 </a>
