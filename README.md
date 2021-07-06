@@ -1,5 +1,5 @@
 <h1 align="center"> <strong>Hello, I'm Muhammad Saeed 👨‍💻<strong/> </h1>
-<h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
+<h3 align="center"> Software Engineer | Tech Enthusiast </h3> <br>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=mh-saeed" alt="=mh-saeed"/> 
 <a href="https://linkedin.com/in/muhammad-saeed-31211b174"><img src="https://img.shields.io/badge/-Muhammad%20Saeed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
