@@ -39,6 +39,6 @@
 <p align="center">
 <a href="https://github.com/mh-saeed">
   <img height="160em" style="padding:0; margin:0;" align="left" width="410px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mh-saeed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  style="padding:0; margin:0;" align="right" width="410px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-saeed&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em"  style="padding:0; margin:0;" align="right" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-saeed&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
