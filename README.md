@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer | Tech Enthusiast </h3> <br>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=mh-saeed" alt="=mh-saeed"/> 
-<a href="https://linkedin.com/in/muhammad-saeed-31211b174"><img src="https://img.shields.io/badge/-Muhammad%20Saeed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-saeed-swe/"><img src="https://img.shields.io/badge/-Muhammad%20Saeed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mh.saeed.aq@gmail.com"><img src="https://img.shields.io/badge/-mh.saeed.aq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
  
