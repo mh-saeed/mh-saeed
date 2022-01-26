@@ -32,9 +32,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/mh-saeed">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mh-saeed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-saeed&layout=compact&langs_count=8&theme=dark"/>
-</a>
+ <p>
+  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mh-saeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&include_all_commits=true&count_private=true" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mh-saeed&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
+
