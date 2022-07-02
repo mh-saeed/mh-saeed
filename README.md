@@ -9,7 +9,7 @@ Hi there, I'm Muhammad Saeed, a final year software engineering student studying
 * 🖥️ &nbsp; See my [portfolio](http://www.mhsaeed.com/)
 * ✉️ &nbsp; You can contact me at [mh.saeed.aq@gmail.com](mailto:mh.saeed.aq@gmail.com)
 * 🧠 &nbsp; I'm learning Cloud Native Computing
-* 🤝 &nbsp; I'm open to collaborating on ReactJs Projects
+* 🤝 &nbsp; I'm open to collaborating on React Projects
 
 ### Skills
 
