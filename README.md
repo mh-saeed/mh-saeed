@@ -6,8 +6,8 @@
 Hi there, I'm Muhammad Saeed, a final year software engineering student studying at "Mehran University of Engineering and Technology, Pakistan". I've vast experience with Web & Cloud technologies. See my portfolio to know more about me and my profession.
 
 * 🇵🇰 &nbsp; I'm based in Pakistan
-* 🖥️ &nbsp; See my [portfolio](http://www.mhsaeed.com/)
-* ✉️ &nbsp; You can contact me at [mh.saeed.aq@gmail.com](mailto:mh.saeed.aq@gmail.com)
+* 🖥️ &nbsp; See my <a href="https://www.mhsaeed.com/" target="_blank">portfolio</a>
+* ✉️ &nbsp; You can contact me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=mh.saeed.aq@gmail.com" target="_blank">mh.saeed.aq@gmail.com</a>
 * 🧠 &nbsp; I'm learning Cloud Native Computing
 * 🤝 &nbsp; I'm open to collaborating on React Projects
 
