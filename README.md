@@ -7,7 +7,7 @@ Hi there, I'm Muhammad Saeed, a final year software engineering student studying
 
 * 🇵🇰 &nbsp; I'm based in Pakistan
 * 🖥️ &nbsp; See my <a href="https://www.mhsaeed.com/" target="_blank">portfolio</a>
-* ✉️ &nbsp; You can contact me at <a href="https://mail.google.com/mail/u/0/compose=mh.saeed.aq@gmail.com" target="_blank">mh.saeed.aq@gmail.com</a>
+* ✉️ &nbsp; You can contact me at [mh.saeed.aq@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * 🧠 &nbsp; I'm learning Cloud Native Computing
 * 🤝 &nbsp; I'm open to collaborating on React Projects
 
