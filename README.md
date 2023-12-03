@@ -34,10 +34,3 @@ Hi there, I'm Muhammad Saeed, a final year software engineering student studying
 <a href="https://www.stackoverflow.com/users/12289964" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  &nbsp;
 <a href="https://www.twitter.com/mh_saeed_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &nbsp;</p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
- <p>
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mh-saeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&include_all_commits=true&count_private=true" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mh-saeed&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
-</p>
-
