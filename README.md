@@ -1,9 +1,9 @@
 <h1> <strong>Hi,
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hey" width="30">  I'm Muhammad Saeed<strong/> </h1>
 
-<h3> Full-Stack Web & Cloud Developer </h3>
+<h3> Full Stack Cloud Native Engineer</h3>
 
-Hi there, I'm Muhammad Saeed, a final year software engineering student studying at "Mehran University of Engineering and Technology, Pakistan". I've vast experience with Web & Cloud technologies. See my portfolio to know more about me and my profession.
+Hi there, I'm a highly skilled full-stack engineer with over 2 years of industry experience. My expertise revolves around React, Next, Gatsby, and Nest frameworks. I hold a Bachelor's degree in Software Engineering and a Cloud Native Computing certification, and I'm here to craft customized solutions for your project. I'm deeply committed to delivering exceptional results that align with your needs. Please don't hesitate to contact me to discuss how I can add value to your project. Let's get started!
 
 * 🇵🇰 &nbsp; I'm based in Pakistan
 * 🖥️ &nbsp; See my <a href="https://mhsaeed.netlify.app" target="_blank">portfolio</a>
