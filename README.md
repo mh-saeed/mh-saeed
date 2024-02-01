@@ -29,8 +29,6 @@ Hi there, I'm a highly skilled full-stack engineer with over 2 years of industry
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mh-saeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp;
 <a href="https://www.linkedin.com/in/mh-saeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
 <a href="https://www.stackoverflow.com/users/12289964" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  &nbsp;
-<a href="https://www.twitter.com/mh_saeed_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &nbsp;</p>
 
